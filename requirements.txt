@@ -1,0 +1,10 @@
+nltk
+gensim
+spacy
+numpy
+tqdm
+pytorch
+torchtext
+datasets
+scikit-learn
+catalyst
